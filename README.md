@@ -17,7 +17,7 @@ for (Book b: inventory)
     System.out.printf("%-18s%s%n",b.getGenre(), b.getTitle());              
 }
 ```
-
+## Outputs:
 ```
 juvenile fiction  Violet the Pilot
 mystery           Bad Business
